@@ -1,0 +1,16 @@
+body
+{
+    background-image: url(photo-1574110537361-ff1948fc4a57.jpg);
+    background-size: cover;
+
+}
+h1
+{
+	color:teal; 
+	font-size: 40px;
+}
+
+#myCanvas{
+    border: 10px ridge;
+    background-color: rgba(255, 255, 255, 0.432);
+    }
